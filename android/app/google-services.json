@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508515007203",
+    "project_id": "mediature-de-la-republique",
+    "storage_bucket": "mediature-de-la-republique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508515007203:android:1659b5aaef72ecec40a3d6",
+        "android_client_info": {
+          "package_name": "com.mediateurapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508515007203-e3m8oihtlb6aps4ipcvrnvh97kh5ng34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZspc0mUkFT3Q7aE-5-d78ocB6BrQFB7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508515007203-e3m8oihtlb6aps4ipcvrnvh97kh5ng34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
